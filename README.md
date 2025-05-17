@@ -43,13 +43,13 @@
   
 </p>
 
-### Spotify Playing 🎧
-
-[![Spotify](https://mi-host.com/milo-j-dana.png)](https://open.spotify.com/track/2vw0ZaYrDFzVI0CoibGAtw)
-
   <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=StudentKevinC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=StudentKevinC&theme=material-palenight)](https://github.com/valentinawerle)
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
