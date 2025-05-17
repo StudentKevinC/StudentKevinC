@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - 🌱 I’m currently learning ...
-  - Nest.js
+  - Next.js
   - React
 - :school: I am a student at Diego Portales University.
 - 🎮 playing videogames and 🎵 listening to music
