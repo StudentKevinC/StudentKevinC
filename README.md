@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ...
   - Nest.js
-  - Angular
+  - React
 - :school: I am a student at Diego Portales University.
 - 🎮 playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="kevin.cornejo@mail.udp.cl">kevin.cornejo@mail.udp.cl</a>
