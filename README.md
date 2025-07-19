@@ -15,7 +15,7 @@
 - :school: I am a student at Diego Portales University.
 - 🎮 playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="kevin.cornejo@mail.udp.cl">kevin.cornejo@mail.udp.cl</a>
--  https://studentkevinc.github.io/Portafolio/
+-  [https://studentkevinc.github.io/Portafolio/](https://portafolio-kc.netlify.app)
 
 <br>
 
